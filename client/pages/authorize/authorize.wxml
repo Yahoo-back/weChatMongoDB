@@ -5,7 +5,7 @@
         <image src='../../../image/logo.png' style='width:120px; height:120px;'></image>
       </view>
       <view class='cell-inline'>
-        <view>贝贝辅导通</view>
+        <view>辅导通</view>
         <view class='desc-row'>需要你的公开头像和昵称</view>
         <button class='weui-btn weui-btn_plain-default' open-type="getUserInfo" bindgetuserinfo="getUserInfo">去授权</button>
       </view>

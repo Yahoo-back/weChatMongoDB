@@ -2,7 +2,7 @@
 const app = getApp()
 Page({
   data: {
-    motto: '欢迎使用贝贝辅导通',
+    motto: '欢迎使用辅导通',
     userInfo: {},
     hasUserInfo: app.globalData.userInfo ? true : false,
     // canIUse: wx.canIUse('button.open-type.getUserInfo')

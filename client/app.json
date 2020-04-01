@@ -25,7 +25,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "贝贝辅导通",
+    "navigationBarTitleText": "辅导通",
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
   },
